@@ -1,0 +1,72 @@
+#JPPDSESF{
+	font-size: 25px;
+}
+
+#banner{
+	width: 100%;
+}
+
+.color{
+	background: #CCCCCC;
+}
+
+.formatos{
+	text-align: center;
+	font-size: 40px;
+}
+
+h2{
+	font-size: 40px;
+    text-align: left;
+    height: 20px;
+    border: 10px;
+    padding-top: 40px;
+    padding-left: 25px;
+    mangin: 40px;
+}
+
+p {
+    text-align: center;
+}
+
+#mission{
+	font-size: 30px;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 24%;
+}
+
+#JoãoPaulo{
+     font-size: 25px;
+}
+
+.itens{
+    font-style:  italic;
+}
+
+.benefícios{
+	background: #FFFFFF;
+}
+
+.imagembeneficios{
+	width: 60%;
+}
+
+.CENTRALIZADO{	
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+	font-size: 0px;
+}
+
+.navegação{
+	display: inline;
+	margin: 0 15px;
+}
